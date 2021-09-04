@@ -1,0 +1,8 @@
+此处为gitclone的本地仓库,由在项目文件夹内git clone创建.
+
+把要提交的文件放进来git add .
+git commit -m '文字'
+git push即可远程添加到库
+
+git remote add origin 仓库地址    可以不经过拷贝直接将本地仓库push进库
+git push -u origin master将已绑定的本地仓库push

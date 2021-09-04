@@ -1,0 +1,10 @@
+let totalNuma = []
+
+const nums1 = [20, 11, 222]
+const num2 = [111, 22, 333]
+
+totalNums.push(...nums1)
+//解析数组Nums1，取出数组nums1里的元素,push入totalNums里。
+
+push方法如果直接用来push数组名，
+会直接把数组当作一个数组元素push进入另一个数组内。
